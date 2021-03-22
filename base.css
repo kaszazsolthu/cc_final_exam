@@ -29,18 +29,18 @@ body {
 
 	right: 20px;
 	top: 20px;
-
-	&:hover {
-		background-color: blue;
-	}
-	div {
-		background-color: #ffffff;
-		width: 40px;
-		height: 6px;
-		margin-bottom: 6px;
-	}
 }
 
+#burger:hover {
+	background-color: blue;
+}
+
+#burger div {
+	background-color: #ffffff;
+	width: 40px;
+	height: 6px;
+	margin-bottom: 6px;
+}
 
 h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -129,3 +129,4 @@ h3 {
 	}
 }
 
+/*# sourceMappingURL=base.css.map */
